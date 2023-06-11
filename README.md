@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bttex
-- 👀 I’m interested in Web Dev, Mobile Dev and Linux
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 👀 I’m interested in Mobile Dev and python scripts
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me on twitter and ig: @itbttex
 
 <!---
