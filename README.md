@@ -5,7 +5,7 @@
 - 📫 How to reach me on twitter and ig: @itbttex
 
 Minhas principais tecnologias:
- [![My Skills](https://skillicons.dev/icons?i=python,flutter,docker,sql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,flutter,docker,sqlserver)](https://skillicons.dev)
 
 <!---
 bttex/bttex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
