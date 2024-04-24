@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me on twitter and ig: @itbttex
 
-- [![My Skills](https://skillicons.dev/icons?i=python,flutter,docker)](https://skillicons.dev)
+Minhas principais tecnologias:
+ [![My Skills](https://skillicons.dev/icons?i=python,flutter,docker,sql)](https://skillicons.dev)
 
 <!---
 bttex/bttex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
