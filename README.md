@@ -5,7 +5,8 @@
 - 📫 How to reach me on twitter and ig: @itbttex
 
 Stats: 
-[![Bttex's GitHub stats](https://github-readme-stats.vercel.app/api?username=bttex)](https://github.com/bttex/github-readme-stats)
+
+[![Bttex's GitHub stats](https://github-readme-stats.vercel.app/api?username=bttex)](https://github.com/bttex/github-readme-stats&show_icons=true&theme=dracula)
 
 
 Minhas principais tecnologias:
