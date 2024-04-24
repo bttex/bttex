@@ -5,12 +5,16 @@
 - 📫 How to reach me on twitter and ig: @itbttex
 
 Stats: 
-
-![image]({BadgeURLHere})
+[![Bttex's GitHub stats](https://github-readme-stats.vercel.app/api?username=bttex)](https://github.com/bttex/github-readme-stats)
 
 
 Minhas principais tecnologias:
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![image]({BadgeURLHere}) ![image]({BadgeURLHere}) ![image]({BadgeURLHere})
+
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![image](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white) ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![image]({BadgeURLHere})
+
+Meu IDE: 
+![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
 <!---
 bttex/bttex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
