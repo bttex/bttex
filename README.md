@@ -6,7 +6,7 @@
 
 Stats: 
 
-[![Bttex's GitHub stats](https://github-readme-stats.vercel.app/api?username=bttex)](https://github.com/bttex/github-readme-stats&show_icons=true&theme=dracula)
+[![Bttex's GitHub stats](https://github-readme-stats.vercel.app/api?username=bttex)](https://github.com/bttex/github-readme-stats&show_icons=true&theme=dark)
 
 
 Minhas principais tecnologias:
