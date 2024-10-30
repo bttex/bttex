@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hello</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Bruno and I'm from Brazil<br><br>- 🔭 I’m working as Jr Data Analyst<br>- 📚 I'm currently learning Data Science<br>- ⚡ In my free time I develop some python bots</p>
+<p align="left">I'm Bruno and I'm from Brazil<br> 🔭 I’m working as Jr Data Analyst<br>📚 I'm currently learning Data Science<br>⚡ In my free time I develop some python bots<br><br> <a href="https://streamlit-cv.onrender.com" target="_blank">My resume</a>/</p>
 
 ###
 
@@ -45,11 +45,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
 ###
@@ -59,8 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bttex&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bttex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=bttex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
