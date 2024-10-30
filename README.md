@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Bruno and I'm from Brazil<br> 🔭 I’m working as Jr Data Analyst<br>📚 I'm currently learning Data Science<br>⚡ In my free time I develop some python bots<br><br> <a href="https://streamlit-cv.onrender.com/" target="_blank">My resume</a></p>
+<p align="left">I'm Bruno and I'm from Brazil<br> 🔭 I’m working as Jr Data Analyst<br>📚 I'm currently learning Data Science<br>⚡ In my free time I develop some python bots<br><br><a href="https://streamlit-cv.onrender.com/">My resume</a></p>
 
 ###
 
@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bttex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=bttex&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
