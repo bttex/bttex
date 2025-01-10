@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Bruno and I'm from Brazil<br> 🔭 I’m working as Jr Data Analyst<br>📚 I'm currently learning Data Science<br>⚡ In my free time I develop some python bots<br><br><a href="https://bteixeira-cv.onrender.com/">My resume</a></p>
+<p align="left">I'm Bruno and I'm from Brazil<br> 🔭 I’m working as Data Analyst<br>📚 I'm currently learning Data Science<br>⚡ In my free time I develop some python bots<br><br><a href="https://bteixeira-cv.onrender.com/">My resume</a></p>
 
 ###
 
