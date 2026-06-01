@@ -15,9 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bttex.bttex&"  />
-</div>
 
 
 
@@ -34,15 +31,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+
+  ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm)
+  
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
