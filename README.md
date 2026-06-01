@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as Data Analyst<br>📚 I'm currently learning Data Science<br>⚡ In my free time I develop some python bots<br><br><a href="https://bteixeira-cv.onrender.com/">My resume</a></p>
+<p align="left">🔭 I’m working as Data Engineer<br>📚 I'm currently learning Data Science<br>⚡ In my free time I develop some python bots<br><br>
 
 ###
 
@@ -34,10 +34,8 @@
 
   ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm)
   [![VS Code](https://www.shieldcn.dev/badge/VS_Code-Editor-007ACC.svg?logo=visualstudiocode&variant=secondary&size=sm)](https://code.visualstudio.com/)
-
-[![Jupyter](https://www.shieldcn.dev/badge/Jupyter-Notebook-F37626.svg?logo=jupyter&variant=secondary&size=sm)](https://jupyter.org/)
-
-[![Docker](https://www.shieldcn.dev/badge/Docker-Containerized-2496ED.svg?logo=docker&variant=secondary&size=sm)](https://www.docker.com/)  
+  [![Jupyter](https://www.shieldcn.dev/badge/Jupyter-Notebook-F37626.svg?logo=jupyter&variant=secondary&size=sm)](https://jupyter.org/)
+  [![Docker](https://www.shieldcn.dev/badge/Docker-Containerized-2496ED.svg?logo=docker&variant=secondary&size=sm)](https://www.docker.com/)  
 
 
 </div>
