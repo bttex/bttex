@@ -4,6 +4,7 @@
 
 
 <div align="center">
+
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40bttex-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/bttex) [![X Follow](https://www.shieldcn.dev/x/follow/itbttex.svg?variant=branded&size=sm)](https://x.com/itbttex) [![Website](https://www.shieldcn.dev/badge/Website-bteixeira--cv.onrender.com-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://bteixeira-cv.onrender.com/) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40bruno--teixeira--6b543a201-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/bruno-teixeira-6b543a201) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://www.instagram.com/itbttex)
 
 
