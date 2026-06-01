@@ -33,18 +33,13 @@
 <div align="left">
 
   ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm)
-  
+  [![VS Code](https://www.shieldcn.dev/badge/VS_Code-Editor-007ACC.svg?logo=visualstudiocode&variant=secondary&size=sm)](https://code.visualstudio.com/)
 
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+[![Jupyter](https://www.shieldcn.dev/badge/Jupyter-Notebook-F37626.svg?logo=jupyter&variant=secondary&size=sm)](https://jupyter.org/)
+
+[![Docker](https://www.shieldcn.dev/badge/Docker-Containerized-2496ED.svg?logo=docker&variant=secondary&size=sm)](https://www.docker.com/)  
+
+
 </div>
 
 ###
