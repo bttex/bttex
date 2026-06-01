@@ -4,15 +4,13 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bruno-teixeira-6b543a201" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/331107623141113856" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/itbttex" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40bttex-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/bttex) 
+[![X Follow](https://www.shieldcn.dev/x/follow/itbttex.svg?variant=branded&size=sm)](https://x.com/itbttex) 
+[![Website](https://www.shieldcn.dev/badge/Website-bteixeira--cv.onrender.com-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://bteixeira-cv.onrender.com/) 
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40bruno--teixeira--6b543a201-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/bruno-teixeira-6b543a201) 
+[![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm)](https://www.instagram.com/itbttex)
+
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/bttex.svg?variant=secondary&size=sm)](https://github.com/bttex?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/bttex.svg?variant=secondary&size=sm)](https://github.com/bttex?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-34-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/bttex?tab=repositories) ![Company](https://www.shieldcn.dev/badge/Company-Vertex_Digital-1f2937.svg?logo=building&variant=ghost&size=sm)
 </div>
 
 ###
